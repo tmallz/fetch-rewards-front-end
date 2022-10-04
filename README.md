@@ -15,5 +15,6 @@ Bonus features:
 ## Building
 
  - First clone the repo locally and install all dependancies. 
- - Then run the project in dev mode (npm run dev)
- - Open http://localhost:5173/ in your browser and the site should be functioning as outlined in the requirements. 
+ - use: npm run dev -- --open 
+ - Project should open automatically
+ - If the project doesn't open automatically: open http://localhost:5173/ in your browser 
