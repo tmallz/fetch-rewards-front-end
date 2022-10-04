@@ -12,9 +12,9 @@ Bonus features:
  - I added a theme changing feature just to switch between 'light' and 'dark' themes.
  - I added a small navbar to navigate between the success page and the form since I added a page to show successfull form submission.
 
-## Building
+## Clone, install, and buidl the project
 
- - First clone the repo locally and install all dependancies. 
- - use: `npm run dev -- --open `
- - Project should open automatically
+ - Clone the Repo: `git clone git@github.com:tmallz/fetch-rewards-front-end.git` 
+ - Install dependancies: `npm install'
+ - Run project in dev mode: `npm run dev -- --open `
  - If the project doesn't open automatically: open http://localhost:5173/ in your browser 
