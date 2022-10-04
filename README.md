@@ -15,6 +15,6 @@ Bonus features:
 ## Clone, install, and buidl the project
 
  - Clone the Repo: `git clone git@github.com:tmallz/fetch-rewards-front-end.git` 
- - Install dependancies: `npm install'
+ - Install dependancies: `npm install`
  - Run project in dev mode: `npm run dev -- --open `
  - If the project doesn't open automatically: open http://localhost:5173/ in your browser 
